@@ -1,4 +1,0 @@
-Version 1.0 -- 2007/08/29
-   launched off the first version of URL Normalizer. It is a simple implementation
-   The algorithm is referenced from the Wikipedia. Below is link.
-   http://en.wikipedia.org/wiki/URL_normalization#Normalization_based_on_URL_lists 
